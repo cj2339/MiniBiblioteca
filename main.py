@@ -19,6 +19,8 @@ def main():
             break
         elif opcion == "1":
             Libros.crear(biblioteca)
+        elif opcion == "2":
+            Libros.listar(biblioteca)
         # --- Aquí cada persona añade su elif ---
         else:
             print("Opción no válida")
