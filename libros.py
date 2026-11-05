@@ -35,3 +35,11 @@ class Libros:
 
 		libro = Libros(id,nombre, autor, editorial)
 		lista_libros.append(libro)
+
+	def listar(lista_libros):
+		print("\n--- LIBROS ---")
+		if lista_libros:
+			for libro in lista_libros:
+				print(libro)
+		else:
+			print("No hay libros registrados.")
