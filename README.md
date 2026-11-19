@@ -5,4 +5,6 @@ Programa de consola que gestiona una pequeña biblioteca de libros
  python main.py
 
 ## Participantes
-Iker Carrillo Jario, Adam Naim Rhouat y Oihan González Álvarez.
+Iker Carrillo Jario, y Oihan González Álvarez.
+
+Adam Naim Rhouat: Añadida busqueda y implementado al main.py con sus funciones
